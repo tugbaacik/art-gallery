@@ -45,5 +45,5 @@ The application creates a virtual exhibition environment that brings together ar
 
 |-------------------|-----------------------|
 |  ![Screenshot 1](screenshots/1.png) |  ![Screenshot 2](screenshots/2.png)  |
-  
+|-------------------|-----------------------|
 
